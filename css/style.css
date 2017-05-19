@@ -1,0 +1,76 @@
+/*Colors : Screen: C5C1C0, Steel: 0A1612, Denim:1A2930, Marigold: F7CE3E; */
+/*https://httpster.net/website/avondale-type-co/*/
+body{
+	background:#dee7ed;
+	/*background:#C5C1C0; */
+	/*background: #F8EEE7;*/
+	/*background: #EFEFEF; Natural Color*/
+}
+.navbar{
+	
+}
+.navbar{
+	min-height: 33px !important;
+	margin-bottom: 0;
+	border-radius: 0;
+}
+.navbar-nav>li>a, .navbar-brand{
+	padding-top:6px !important;
+	padding-bottom: 0 !important;
+	height: 33px;
+}
+.main-color-bg{
+	background-color: #1A2930 !important;
+ 	border-color:  #565656  !important;
+ 	color: #FFFFFF !important;
+}
+
+/*header*/
+#header {
+	background-color: #1A2930;
+	color:#ffffff;
+	padding-bottom: 10px;
+	margin-bottom: 15px;
+}
+#header .create {
+	padding-top: 20px;
+}
+
+
+/*bradcrumb*/
+
+.breadcrumb {
+	background: #F8CE3E;
+	border-color: #F8CE3E;
+	color: #333333;
+	text-shadow: 1px 1px #CCC;
+}
+.breadcrumb a{
+	color:#333333;
+}
+
+/* Progress bars*/
+.progress-bar{
+	background: #F7CE3E;
+	/*background: #062FAF;*/
+	color:#000000; 
+}
+
+.dash-box{
+	text-align:center;
+}
+
+/*login*/
+#login{
+	margin-top: 3px;
+}
+
+/*footer*/
+
+#footer	{
+	background-color: #1A2930;
+	color:#ffffff;
+	text-align: center;
+	padding: 30px;
+	margin-top:30px;
+}
